@@ -1,0 +1,12 @@
+langchain 
+langchain-pinecone 
+langchain-openai 
+pinecone
+ipykernel
+python-dotenv
+langchain-core
+langchain-community
+langchain-text-splitters
+beautifulsoup4
+streamlit
+pypdf
